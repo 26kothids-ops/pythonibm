@@ -1,0 +1,5 @@
+text = input("Enter a string: ")
+
+print("Number of characters:", len(text))
+
+input("Press enter to exit...")
